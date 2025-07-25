@@ -1,16 +1,17 @@
-# theme_flutter
+# Furniture App 🛋️
 
-A new Flutter project.
+A simple Flutter app for browsing and buying furniture items.
 
-## Getting Started
+## Features:
+- Home screen with categories (Sofa, Desk, etc)
+- Product cards with image, description, and price
+- Theming and custom color support
 
-This project is a starting point for a Flutter application.
+## Getting Started:
+To run the app:
+```bash
+flutter pub get
+flutter run
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](assets/img.png)
