@@ -15,6 +15,6 @@ flutter run
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/img.png" width="45%" />
- 
+  <img src="https://raw.githubusercontent.com/Yasmeen-Adel/furniture/main/assets/img.png" width="45%" />
 </p>
+
