@@ -15,6 +15,8 @@ flutter run
 ## 📱 Screenshots
 
 <p align="center">
+  <img src="assets/img.PNG" width="45%" />
   <img src="assets/img.png" width="45%" />
 </p>
+
 
