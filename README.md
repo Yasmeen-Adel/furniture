@@ -14,4 +14,7 @@ flutter pub get
 flutter run
 ## 📱 Screenshots
 
-![App Screenshot](assets/img.png)
+<p align="center">
+  <img src="assets/img.png" width="45%" />
+ 
+</p>
